@@ -43,7 +43,7 @@ def path_clear(hallway, start, end):
     return True
 
 def get_moves(hallway, rooms, depth):
-    # Передвижения объектов
+    # Передвижение объектов
     moves = []
 
     # Из коридора в комнату
